@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on ligature.io </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://ligature.io/</link>
+    <language>en-us</language>
+    <author>ligature</author>
+    
+    <updated>Wed, 28 Oct 2015 15:20:40 CDT</updated>
+    
+    <item>
+      <title>Ansible, go and more</title>
+      <link>http://ligature.io/post/ansibleandmore/</link>
+      <pubDate>Wed, 28 Oct 2015 15:20:40 CDT</pubDate>
+      <author>ligature</author>
+      <guid>http://ligature.io/post/ansibleandmore/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since i&amp;rsquo;ve made any posts. Lately I have been working on ansible and left Chef behind, not altogether but just for this project. I&amp;rsquo;ve since written an awesome yaml parsing Go inventory that is quick and painless to use. Unfortunately due to some caveats internally I cannot release it publically, but will be releasing a modified version soon.&lt;/p&gt;
+
+&lt;p&gt;Also, I have been working hard on the volume plugin for Ansible to allow the management of libvirt volumes in Python. This will allow my team to move forward on another internal project. This will hopefully be released with 1.9.5 or 2.0.0 ansible efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
